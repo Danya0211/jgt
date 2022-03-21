@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marquize", "Marquize\Marquize.csproj", "{F44ABBCE-FEBE-4D42-84C9-00130DF35CEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square", "ClassLibrary1\Square.csproj", "{6E2BCC85-9C3C-4682-81D9-F76459A08927}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F44ABBCE-FEBE-4D42-84C9-00130DF35CEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F44ABBCE-FEBE-4D42-84C9-00130DF35CEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F44ABBCE-FEBE-4D42-84C9-00130DF35CEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F44ABBCE-FEBE-4D42-84C9-00130DF35CEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E2BCC85-9C3C-4682-81D9-F76459A08927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E2BCC85-9C3C-4682-81D9-F76459A08927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E2BCC85-9C3C-4682-81D9-F76459A08927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E2BCC85-9C3C-4682-81D9-F76459A08927}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67910E2D-433B-4CD4-9D05-0DD940BC7236}
+	EndGlobalSection
+EndGlobal
